@@ -150,3 +150,5 @@ C:\Users\pluhi\OneDrive\Desktop\Новая папка (4)\УП.03.01\DAY_04\Data
 C:\Users\pluhi\OneDrive\Desktop\Новая папка (4)\УП.03.01\DAY_04\Database\OurDecor\OurDecor\obj\Debug\net8.0-windows\OurDecor.genruntimeconfig.cache
 C:\Users\pluhi\OneDrive\Desktop\Новая папка (4)\УП.03.01\DAY_04\Database\OurDecor\OurDecor\obj\Debug\net8.0-windows\ref\OurDecor.dll
 C:\Users\pluhi\OneDrive\Desktop\Новая папка (4)\УП.03.01\DAY_04\Database\OurDecor\OurDecor\obj\Debug\net8.0-windows\App.baml
+C:\Users\pluhi\OneDrive\Desktop\Новая папка (4)\УП.03.01\DAY_04\Database\OurDecor\OurDecor\obj\Debug\net8.0-windows\AddEditProduct.g.cs
+C:\Users\pluhi\OneDrive\Desktop\Новая папка (4)\УП.03.01\DAY_04\Database\OurDecor\OurDecor\obj\Debug\net8.0-windows\AddEditProduct.baml

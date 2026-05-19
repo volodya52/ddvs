@@ -86,9 +86,7 @@ public partial class OurDecorContext : DbContext
 
         modelBuilder.Entity<Product>(entity =>
         {
-            entity.Property(e => e.Id)
-                .ValueGeneratedNever()
-                .HasColumnName("ID");
+            entity.Property(e => e.Id).HasColumnName("ID");
             entity.Property(e => e.IdProductType).HasColumnName("ID_product_type");
             entity.Property(e => e.MinPriceForPartner).HasColumnName("Min_price_for_partner");
             entity.Property(e => e.ProductionName)

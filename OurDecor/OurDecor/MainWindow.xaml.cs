@@ -27,5 +27,14 @@ namespace OurDecor
             InitializeComponent();
            
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            AddEditProduct aed = new AddEditProduct();
+            aed.Show();
+            this.Close();
+            
+            
+        }
     }
 }

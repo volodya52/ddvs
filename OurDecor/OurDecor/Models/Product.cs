@@ -20,4 +20,5 @@ public partial class Product
     public virtual ProductType IdProductTypeNavigation { get; set; } = null!;
 
     public virtual ICollection<ProductMaterial> ProductMaterials { get; set; } = new List<ProductMaterial>();
+
 }

@@ -3,32 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\pluhi\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\\\u0423\u041F.03.01\\DAY_04\\Database\\OurDecor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{19F22868-751F-4116-A48A-E77DF7D19C96}|OurDecor\\OurDecor.csproj|c:\\users\\pluhi\\onedrive\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\\\u0443\u043F.03.01\\day_04\\database\\ourdecor\\ourdecor\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{19F22868-751F-4116-A48A-E77DF7D19C96}|OurDecor\\OurDecor.csproj|solutionrelative:ourdecor\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{19F22868-751F-4116-A48A-E77DF7D19C96}|OurDecor\\OurDecor.csproj|c:\\users\\pluhi\\onedrive\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\\\u0443\u043F.03.01\\day_04\\database\\ourdecor\\ourdecor\\addeditproduct.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19F22868-751F-4116-A48A-E77DF7D19C96}|OurDecor\\OurDecor.csproj|solutionrelative:ourdecor\\addeditproduct.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19F22868-751F-4116-A48A-E77DF7D19C96}|OurDecor\\OurDecor.csproj|c:\\users\\pluhi\\onedrive\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\\\u0443\u043F.03.01\\day_04\\database\\ourdecor\\ourdecor\\addeditproduct.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{19F22868-751F-4116-A48A-E77DF7D19C96}|OurDecor\\OurDecor.csproj|solutionrelative:ourdecor\\addeditproduct.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{19F22868-751F-4116-A48A-E77DF7D19C96}|OurDecor\\OurDecor.csproj|c:\\users\\pluhi\\onedrive\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\\\u0443\u043F.03.01\\day_04\\database\\ourdecor\\ourdecor\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{19F22868-751F-4116-A48A-E77DF7D19C96}|OurDecor\\OurDecor.csproj|solutionrelative:ourdecor\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{19F22868-751F-4116-A48A-E77DF7D19C96}|OurDecor\\OurDecor.csproj|c:\\users\\pluhi\\onedrive\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\\\u0443\u043F.03.01\\day_04\\database\\ourdecor\\ourdecor\\ourdecor.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{19F22868-751F-4116-A48A-E77DF7D19C96}|OurDecor\\OurDecor.csproj|solutionrelative:ourdecor\\ourdecor.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{19F22868-751F-4116-A48A-E77DF7D19C96}|OurDecor\\OurDecor.csproj|c:\\users\\pluhi\\onedrive\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\\\u0443\u043F.03.01\\day_04\\database\\ourdecor\\ourdecor\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{19F22868-751F-4116-A48A-E77DF7D19C96}|OurDecor\\OurDecor.csproj|solutionrelative:ourdecor\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{19F22868-751F-4116-A48A-E77DF7D19C96}|OurDecor\\OurDecor.csproj|c:\\users\\pluhi\\onedrive\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\\\u0443\u043F.03.01\\day_04\\database\\ourdecor\\ourdecor\\models\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19F22868-751F-4116-A48A-E77DF7D19C96}|OurDecor\\OurDecor.csproj|solutionrelative:ourdecor\\models\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{19F22868-751F-4116-A48A-E77DF7D19C96}|OurDecor\\OurDecor.csproj|c:\\users\\pluhi\\onedrive\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\\\u0443\u043F.03.01\\day_04\\database\\ourdecor\\ourdecor\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{19F22868-751F-4116-A48A-E77DF7D19C96}|OurDecor\\OurDecor.csproj|solutionrelative:ourdecor\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19F22868-751F-4116-A48A-E77DF7D19C96}|OurDecor\\OurDecor.csproj|c:\\users\\pluhi\\onedrive\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\\\u0443\u043F.03.01\\day_04\\database\\ourdecor\\ourdecor\\models\\ourdecorcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19F22868-751F-4116-A48A-E77DF7D19C96}|OurDecor\\OurDecor.csproj|solutionrelative:ourdecor\\models\\ourdecorcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19F22868-751F-4116-A48A-E77DF7D19C96}|OurDecor\\OurDecor.csproj|c:\\users\\pluhi\\onedrive\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\\\u0443\u043F.03.01\\day_04\\database\\ourdecor\\ourdecor\\ourdecor.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{19F22868-751F-4116-A48A-E77DF7D19C96}|OurDecor\\OurDecor.csproj|solutionrelative:ourdecor\\ourdecor.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{19F22868-751F-4116-A48A-E77DF7D19C96}|OurDecor\\OurDecor.csproj|c:\\users\\pluhi\\onedrive\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\\\u0443\u043F.03.01\\day_04\\database\\ourdecor\\ourdecor\\models\\productmaterial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{19F22868-751F-4116-A48A-E77DF7D19C96}|OurDecor\\OurDecor.csproj|solutionrelative:ourdecor\\models\\productmaterial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pluhi\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\\\u0423\u041F.03.01\\DAY_04\\Database\\OurDecor\\OurDecor\\Models\\OurDecorContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OurDecor\\Models\\OurDecorContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,36 +42,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "AddEditProduct.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pluhi\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\\\u0423\u041F.03.01\\DAY_04\\Database\\OurDecor\\OurDecor\\AddEditProduct.xaml.cs",
+              "RelativeDocumentMoniker": "OurDecor\\AddEditProduct.xaml.cs",
+              "ToolTip": "C:\\Users\\pluhi\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\\\u0423\u041F.03.01\\DAY_04\\Database\\OurDecor\\OurDecor\\AddEditProduct.xaml.cs*",
+              "RelativeToolTip": "OurDecor\\AddEditProduct.xaml.cs*",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwDkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T16:56:49.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddEditProduct.xaml",
+              "DocumentMoniker": "C:\\Users\\pluhi\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\\\u0423\u041F.03.01\\DAY_04\\Database\\OurDecor\\OurDecor\\AddEditProduct.xaml",
+              "RelativeDocumentMoniker": "OurDecor\\AddEditProduct.xaml",
+              "ToolTip": "C:\\Users\\pluhi\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\\\u0423\u041F.03.01\\DAY_04\\Database\\OurDecor\\OurDecor\\AddEditProduct.xaml",
+              "RelativeToolTip": "OurDecor\\AddEditProduct.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-19T16:52:47.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "OurDecor",
               "DocumentMoniker": "C:\\Users\\pluhi\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\\\u0423\u041F.03.01\\DAY_04\\Database\\OurDecor\\OurDecor\\OurDecor.csproj",
               "RelativeDocumentMoniker": "OurDecor\\OurDecor.csproj",
               "ToolTip": "C:\\Users\\pluhi\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\\\u0423\u041F.03.01\\DAY_04\\Database\\OurDecor\\OurDecor\\OurDecor.csproj",
               "RelativeToolTip": "OurDecor\\OurDecor.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-05-19T16:31:35.743Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-19T16:31:35.743Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\pluhi\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\\\u0423\u041F.03.01\\DAY_04\\Database\\OurDecor\\OurDecor\\Models\\Product.cs",
               "RelativeDocumentMoniker": "OurDecor\\Models\\Product.cs",
               "ToolTip": "C:\\Users\\pluhi\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\\\u0423\u041F.03.01\\DAY_04\\Database\\OurDecor\\OurDecor\\Models\\Product.cs",
               "RelativeToolTip": "OurDecor\\Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-19T16:24:06.114Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "ProductMaterial.cs",
               "DocumentMoniker": "C:\\Users\\pluhi\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\\\u0423\u041F.03.01\\DAY_04\\Database\\OurDecor\\OurDecor\\Models\\ProductMaterial.cs",
               "RelativeDocumentMoniker": "OurDecor\\Models\\ProductMaterial.cs",
@@ -75,38 +103,24 @@
               "RelativeToolTip": "OurDecor\\Models\\ProductMaterial.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-19T16:19:22.044Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-19T16:19:22.044Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProductType.cs",
-              "DocumentMoniker": "C:\\Users\\pluhi\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\\\u0423\u041F.03.01\\DAY_04\\Database\\OurDecor\\OurDecor\\Models\\ProductType.cs",
-              "RelativeDocumentMoniker": "OurDecor\\Models\\ProductType.cs",
-              "ToolTip": "C:\\Users\\pluhi\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\\\u0423\u041F.03.01\\DAY_04\\Database\\OurDecor\\OurDecor\\Models\\ProductType.cs",
-              "RelativeToolTip": "OurDecor\\Models\\ProductType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-19T16:17:05.596Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "OurDecorContext.cs",
               "DocumentMoniker": "C:\\Users\\pluhi\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\\\u0423\u041F.03.01\\DAY_04\\Database\\OurDecor\\OurDecor\\Models\\OurDecorContext.cs",
               "RelativeDocumentMoniker": "OurDecor\\Models\\OurDecorContext.cs",
               "ToolTip": "C:\\Users\\pluhi\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\\\u0423\u041F.03.01\\DAY_04\\Database\\OurDecor\\OurDecor\\Models\\OurDecorContext.cs",
               "RelativeToolTip": "OurDecor\\Models\\OurDecorContext.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-19T16:11:41.387Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\pluhi\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\\\u0423\u041F.03.01\\DAY_04\\Database\\OurDecor\\OurDecor\\MainWindow.xaml",
               "RelativeDocumentMoniker": "OurDecor\\MainWindow.xaml",
@@ -124,7 +138,7 @@
               "RelativeDocumentMoniker": "OurDecor\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\pluhi\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\\\u0423\u041F.03.01\\DAY_04\\Database\\OurDecor\\OurDecor\\MainWindow.xaml.cs",
               "RelativeToolTip": "OurDecor\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACEAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-19T16:03:37.127Z",
               "EditorCaption": ""
