@@ -1,0 +1,21 @@
+﻿<Application x:Class="OurDecor.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:OurDecor"
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <materialDesign:BundledTheme BaseTheme="Light" PrimaryColor="DeepPurple" SecondaryColor="Lime" />
+
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesign2.Defaults.xaml" />
+                <ResourceDictionary>
+                    <SolidColorBrush x:Key="MaterialDesign.Brush.Primary" Color="#FFFFFF"/>
+                    <SolidColorBrush x:Key="MaterialDesign.Brush.Primary.Foreground" Color="#2D6033"/>
+                    <SolidColorBrush x:Key="MaterialDesign.Brush.Secondary.Background" Color="#BBD9B2"/>
+                </ResourceDictionary>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>
